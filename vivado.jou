@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Dec 17 06:36:10 2022
+# Process ID: 13688
+# Current directory: D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Project_Dohyoung Ko/Final_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11008 D:\The Pennsylvania State University\FA22\CMPEN-331\Lab\Project_Dohyoung Ko\Final_Project\Final_Project.xpr
+# Log file: D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Project_Dohyoung Ko/Final_Project/vivado.log
+# Journal file: D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Project_Dohyoung Ko/Final_Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Project_Dohyoung Ko/Final_Project/Final_Project.xpr}
+update_compile_order -fileset sources_1
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1

@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Final_Project/Final_Project.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Final_Project/Final_Project.srcs/sim_1/new/testbench.v,1671273863,verilog,,,,testbench,,,,,,,,
+D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Final_Project/Final_Project.srcs/sources_1/new/datapath.v,1671272939,verilog,,D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Final_Project/Final_Project.srcs/sim_1/new/testbench.v,,Alu;AluMux;EXEMEMreg;IDEXEreg;IFIDreg;MEMWBreg;controlUnit;dataMem;datapath;fqaMux;fqbMux;immExtender;instMemory;pcAdder;progCounter;regFile;regRt;wbMux,,,,,,,,

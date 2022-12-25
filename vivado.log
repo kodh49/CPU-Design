@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Dec 17 06:36:10 2022
+# Process ID: 13688
+# Current directory: D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Project_Dohyoung Ko/Final_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11008 D:\The Pennsylvania State University\FA22\CMPEN-331\Lab\Project_Dohyoung Ko\Final_Project\Final_Project.xpr
+# Log file: D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Project_Dohyoung Ko/Final_Project/vivado.log
+# Journal file: D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Project_Dohyoung Ko/Final_Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Project_Dohyoung Ko/Final_Project/Final_Project.xpr}
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Project_Dohyoung Ko/Final_Project'
+INFO: [Project 1-313] Project file moved from 'D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Final_Project' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2019.1/data/ip'.
+update_compile_order -fileset sources_1
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+[Sat Dec 17 06:45:09 2022] Launched impl_1...
+Run output will be captured here: D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Project_Dohyoung Ko/Final_Project/Final_Project.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Dec 17 06:47:03 2022...

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Dec 17 05:40:57 2022
+# Process ID: 9272
+# Current directory: D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Final_Project/Final_Project.runs/impl_1
+# Command line: vivado.exe -log datapath.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source datapath.tcl -notrace
+# Log file: D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Final_Project/Final_Project.runs/impl_1/datapath.vdi
+# Journal file: D:/The Pennsylvania State University/FA22/CMPEN-331/Lab/Final_Project/Final_Project.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source datapath.tcl -notrace
